@@ -1,0 +1,64 @@
+{
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "license": [
+        "proprietary"
+    ],
+    "repositories":[
+        {
+            "type": "vcs",
+            "url":  "git@bitbucket.org:team_mozg/magento-amasty-cart.git"
+        },
+        {
+            "type": "vcs",
+            "url":  "git@bitbucket.org:team_mozg/magento-amasty-fpc.git"
+        },
+        {
+            "type": "vcs",
+            "url":  "git@bitbucket.org:team_mozg/magento-amasty-promo.git"
+        },
+        {
+            "type": "vcs",
+            "url":  "git@bitbucket.org:team_mozg/magento-amasty-shopby.git"
+        },
+        {
+            "type": "vcs",
+            "url":  "git@bitbucket.org:team_mozg/magento-nwdthemes-revslider.git"
+        },
+        {
+            "type": "vcs",
+            "url":  "git@bitbucket.org:team_mozg/magento-wyomind-datafeedmanager.git"
+        },
+        {
+            "type": "vcs",
+            "url":  "git@bitbucket.org:team_mozg/magento-theme-porto.git"
+        },
+        {
+            "type":"composer",
+            "url":"https://packages.firegento.com"
+        }
+    ],
+    "extra":{
+        "magento-root-dir":"magento",
+        "magento-deploystrategy": "copy",
+        "magento-force": true
+    },
+    "require": {
+        "magento-hackathon/magento-composer-installer": "~3.0",
+        "aydin-hassan/magento-core-composer-installer": "~1.2",
+        "firegento/magento": "~1.9.3.1",
+        "aoepeople/aoe_scheduler": "*",
+        "aschroder/smtp_pro": "*",
+        "husseycoding/customordergrid": "*",
+        "firegento/debug": "*",
+        "mozgbrasil/magento-amasty-cart": "dev-master",
+        "mozgbrasil/magento-amasty-fpc": "dev-master",
+        "mozgbrasil/magento-amasty-promo": "dev-master",
+        "mozgbrasil/magento-amasty-shopby": "dev-master",
+        "mozgbrasil/magento-nwdthemes-revslider": "dev-master",
+        "mozgbrasil/magento-theme-porto": "dev-master",
+        "mozgbrasil/magento-wyomind-datafeedmanager": "dev-master",
+        "mozgbrasil/magento-trustvox": "dev-master",
+        "mozgbrasil/magento-bundle-php56": "dev-master"
+    }
+}
