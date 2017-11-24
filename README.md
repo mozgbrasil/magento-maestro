@@ -42,7 +42,10 @@ Abaixo temos uma relação de cada requerimento do projeto
 | <a href="https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension" target="_blank">aschroder/smtp_pro</a> | R$0 |  |
 | <a href="https://github.com/husseycoding/customordergrid" target="_blank">husseycoding/customordergrid</a> | R$0 |  |
 | <a href="https://github.com/firegento/firegento-debug" target="_blank">firegento/debug</a> | R$0 |  |
+<<<<<<< HEAD
 | <a href="https://github.com/mozgbrasil/magento-trustvox" target="_blank">mozgbrasil/magento-trustvox</a> | R$0 |  |
+=======
+>>>>>>> master
 | <a href="https://amasty.com/ajax-shopping-cart.html" target="_blank">mozgbrasil/magento-amasty-cart</a> | $119.00 |  |
 | <a href="https://amasty.com/magento-full-page-cache.html" target="_blank">mozgbrasil/magento-amasty-fpc</a> | $169.00 |  |
 | <a href="https://amasty.com/auto-add-promo-items.html" target="_blank">mozgbrasil/magento-amasty-promo</a> | $119.00 |  |
@@ -50,6 +53,10 @@ Abaixo temos uma relação de cada requerimento do projeto
 | <a href="https://codecanyon.net/item/slider-revolution-responsive-magento-extension/9332896" target="_blank">mozgbrasil/magento-nwdthemes-revslider</a> | $39 |  |
 | <a href="https://themeforest.net/item/porto-ultimate-responsive-magento-theme/9725864" target="_blank">mozgbrasil/magento-theme-porto</a> | $79 |  |
 | <a href="https://www.wyomind.com/data-feed-manager-magento.html" target="_blank">mozgbrasil/magento-wyomind-datafeedmanager</a> | $112 |  |
+<<<<<<< HEAD
+=======
+| <a href="https://github.com/mozgbrasil/magento-trustvox" target="_blank">mozgbrasil/magento-trustvox</a> | R$0 |  |
+>>>>>>> master
 | <a href="http://mozg.com.br/catalogo/" target="_blank">mozgbrasil/magento-bundle-php56</a> | R$44,00/Mês |  |
 | TOTAL | $776 | R$2.509,19 |
 
