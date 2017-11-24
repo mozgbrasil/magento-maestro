@@ -52,13 +52,14 @@ Abaixo temos uma relação de cada requerimento presente no manifesto do projeto
 | <a href="https://amasty.com/ajax-shopping-cart.html" target="_blank">mozgbrasil/magento-amasty-cart</a> | $119 |  |
 | <a href="https://amasty.com/auto-add-promo-items.html" target="_blank">mozgbrasil/magento-amasty-promo</a> | $119 |  |
 | <a href="https://amasty.com/extended-product-grid-with-editor.html" target="_blank">mozgbrasil/magento-amasty-pgrid</a> | $119 |  |
+| <a href="https://amasty.com/mass-product-actions.html" target="_blank">mozgbrasil/magento-amasty-paction</a> | $119 |  |
 | <a href="https://amasty.com/improved-layered-navigation.html" target="_blank">mozgbrasil/magento-amasty-shopby</a> | $139 |  |
 | <a href="https://amasty.com/magento-full-page-cache.html" target="_blank">mozgbrasil/magento-amasty-fpc</a> | $169 |  |
 | <a href="https://mirasvit.com/magento-extensions/sphinx-search-ultimate.html" target="_blank">mozgbrasil/magento-mirasvit-search-sphinx</a> | $199 |  |
 | <a href="https://ecommerce.aheadworks.com/magento-extensions/help-desk-ultimate.html" target="_blank">mozgbrasil/mozgbrasil/magento-aw-helpdesk</a> | $199 |  |
-| TOTAL | $1293 |  |
+| TOTAL | $1412 |  |
 
-<!--39+79+112+119+119+119+139+169+199+199-->
+<!--39+79+112+119+119+119+119+139+169+199+199-->
 
 ## Contribuintes
 
