@@ -35,7 +35,7 @@ No uso do Composer todo os recursos é relacionado no manifesto do projeto
 
 Abaixo temos uma relação de cada requerimento do projeto
 
-| Pacote   |      Preço      |  Cool |
+| Pacote | _ | _ |
 |----------|:-------------:|------:|
 | <a href="https://github.com/firegento/magento" target="_blank">firegento/magento</a> |  R$0 |  |
 | <a href="https://github.com/AOEpeople/Aoe_Scheduler" target="_blank">aoepeople/aoe_scheduler</a> |  R$0 |  |
