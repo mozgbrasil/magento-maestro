@@ -57,4 +57,8 @@ Abaixo temos uma relação de cada requerimento do projeto
 
 <!--119+169+119+139+39+79+112-->
 
+## Contribuintes
+
+Equipe Mozg
+
 :cat2:
