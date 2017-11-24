@@ -31,6 +31,10 @@
         },
         {
             "type": "vcs",
+            "url":  "git@bitbucket.org:team_mozg/magento-amasty-paction.git"
+        },
+        {
+            "type": "vcs",
             "url":  "git@bitbucket.org:team_mozg/magento-mirasvit-search-sphinx.git"
         },
         {
@@ -73,6 +77,7 @@
         "mozgbrasil/magento-amasty-promo": "dev-master",
         "mozgbrasil/magento-amasty-shopby": "dev-master",
         "mozgbrasil/magento-amasty-pgrid": "dev-master",
+        "mozgbrasil/magento-amasty-paction": "dev-master",
         "mozgbrasil/magento-mirasvit-search-sphinx": "dev-master",
         "mozgbrasil/magento-bundle-php56": "dev-master"
     }
