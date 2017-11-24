@@ -23,6 +23,10 @@
         },
         {
             "type": "vcs",
+            "url":  "git@bitbucket.org:team_mozg/magento-amasty-pgrid.git"
+        },
+        {
+            "type": "vcs",
             "url":  "git@bitbucket.org:team_mozg/magento-nwdthemes-revslider.git"
         },
         {
@@ -55,6 +59,7 @@
         "mozgbrasil/magento-amasty-fpc": "dev-master",
         "mozgbrasil/magento-amasty-promo": "dev-master",
         "mozgbrasil/magento-amasty-shopby": "dev-master",
+        "mozgbrasil/magento-amasty-pgrid": "dev-master",
         "mozgbrasil/magento-nwdthemes-revslider": "dev-master",
         "mozgbrasil/magento-theme-porto": "dev-master",
         "mozgbrasil/magento-wyomind-datafeedmanager": "dev-master",

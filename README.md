@@ -35,7 +35,7 @@ No uso do Composer todo os recursos é relacionado no manifesto do projeto
 
 <a href="http://phpstack-48796-375559.cloudwaysapps.com/composer.json" target="_blank">Clique aqui para acesso manifesto do projeto</a>
 
-Abaixo temos uma relação de cada requerimento do projeto
+Abaixo temos uma relação de cada requerimento presente no manifesto do projeto
 
 | Pacote | _ | _ |
 |----------|:-------------:|------:|
@@ -49,13 +49,14 @@ Abaixo temos uma relação de cada requerimento do projeto
 | <a href="https://amasty.com/magento-full-page-cache.html" target="_blank">mozgbrasil/magento-amasty-fpc</a> | $169.00 |  |
 | <a href="https://amasty.com/auto-add-promo-items.html" target="_blank">mozgbrasil/magento-amasty-promo</a> | $119.00 |  |
 | <a href="https://amasty.com/improved-layered-navigation.html" target="_blank">mozgbrasil/magento-amasty-shopby</a> | $139.00 |  |
+| <a href="https://amasty.com/extended-product-grid-with-editor.html" target="_blank">mozgbrasil/magento-amasty-pgrid</a> | $119.00 |  |
 | <a href="https://codecanyon.net/item/slider-revolution-responsive-magento-extension/9332896" target="_blank">mozgbrasil/magento-nwdthemes-revslider</a> | $39 |  |
 | <a href="https://themeforest.net/item/porto-ultimate-responsive-magento-theme/9725864" target="_blank">mozgbrasil/magento-theme-porto</a> | $79 |  |
 | <a href="https://www.wyomind.com/data-feed-manager-magento.html" target="_blank">mozgbrasil/magento-wyomind-datafeedmanager</a> | $112 |  |
 | <a href="http://mozg.com.br/catalogo/" target="_blank">mozgbrasil/magento-bundle-php56</a> | R$44,00/Mês |  |
 | TOTAL | $776 | R$2.509,19 |
 
-<!--119+169+119+139+39+79+112-->
+<!--119+169+119+139+39+79+112+119-->
 
 ## Contribuintes
 
