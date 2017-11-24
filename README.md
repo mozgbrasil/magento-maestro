@@ -6,6 +6,8 @@
 
 # Magento
 
+Projeto Maestro
+
 ## Sinopse
 
 Tenha seu projeto Magento gerenciado pelo Composer
