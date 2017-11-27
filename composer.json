@@ -47,6 +47,10 @@
         },
         {
             "type": "vcs",
+            "url":  "git@bitbucket.org:team_mozg/magento-modulesgarden-teamandtaskorganizer.git"
+        },
+        {
+            "type": "vcs",
             "url":  "git@bitbucket.org:team_mozg/magento-theme-porto.git"
         },
         {
@@ -71,6 +75,7 @@
         "mozgbrasil/magento-nwdthemes-revslider": "dev-master",
         "mozgbrasil/magento-trustvox": "dev-master",
         "mozgbrasil/magento-wyomind-datafeedmanager": "dev-master",
+        "mozgbrasil/magento-modulesgarden-teamandtaskorganizer": "dev-master",
         "mozgbrasil/magento-aw-helpdesk": "dev-master",
         "mozgbrasil/magento-amasty-cart": "dev-master",
         "mozgbrasil/magento-amasty-fpc": "dev-master",
