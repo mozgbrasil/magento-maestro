@@ -50,6 +50,10 @@
             "url":  "git@bitbucket.org:team_mozg/magento-theme-porto.git"
         },
         {
+            "type": "vcs",
+            "url":  "git@github.com:mozgbrasil/Magento-MassShipment.git"
+        },
+        {
             "type":"composer",
             "url":"https://packages.firegento.com"
         }
@@ -68,8 +72,9 @@
         "husseycoding/customordergrid": "*",
         "firegento/debug": "*",
         "mozgbrasil/magento-theme-porto": "dev-master",
-        "mozgbrasil/magento-nwdthemes-revslider": "dev-master",
         "mozgbrasil/magento-trustvox": "dev-master",
+        "mozgbrasil/magento-nwdthemes-revslider": "dev-master",
+        "mozgbrasil/magento-mirasvit-search-sphinx": "dev-master",
         "mozgbrasil/magento-wyomind-datafeedmanager": "dev-master",
         "mozgbrasil/magento-aw-helpdesk": "dev-master",
         "mozgbrasil/magento-amasty-cart": "dev-master",
@@ -78,7 +83,7 @@
         "mozgbrasil/magento-amasty-shopby": "dev-master",
         "mozgbrasil/magento-amasty-pgrid": "dev-master",
         "mozgbrasil/magento-amasty-paction": "dev-master",
-        "mozgbrasil/magento-mirasvit-search-sphinx": "dev-master",
+        "mozgbrasil/magento-mass-shipment": "dev-master",
         "mozgbrasil/magento-bundle-php_56": "dev-master"
     }
 }
