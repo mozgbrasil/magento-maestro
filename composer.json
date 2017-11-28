@@ -84,6 +84,6 @@
         "mozgbrasil/magento-amasty-pgrid": "dev-master",
         "mozgbrasil/magento-amasty-paction": "dev-master",
         "mozgbrasil/magento-mirasvit-search-sphinx": "dev-master",
-        "mozgbrasil/magento-bundle-php56": "dev-master"
+        "mozgbrasil/magento-bundle-php_56": "dev-master"
     }
 }

@@ -45,7 +45,7 @@ Abaixo temos uma relação de cada requerimento presente no manifesto do projeto
 | <a href="https://github.com/husseycoding/customordergrid" target="_blank">husseycoding/customordergrid</a> | R$0 |  |
 | <a href="https://github.com/firegento/firegento-debug" target="_blank">firegento/debug</a> | R$0 |  |
 | <a href="https://github.com/mozgbrasil/magento-trustvox" target="_blank">mozgbrasil/magento-trustvox</a> | R$0 |  |
-| <a href="http://mozg.com.br/catalogo/" target="_blank">mozgbrasil/magento-bundle-php56</a> | R$44 |  |
+| <a href="http://mozg.com.br/catalogo/" target="_blank">mozgbrasil/magento-bundle-php_56</a> | R$44 |  |
 | <a href="https://codecanyon.net/item/slider-revolution-responsive-magento-extension/9332896" target="_blank">mozgbrasil/magento-nwdthemes-revslider:5.4.5.2</a> | $39 |  |
 | <a href="https://themeforest.net/item/porto-ultimate-responsive-magento-theme/9725864" target="_blank">mozgbrasil/magento-theme-porto:2.6.2</a> | $79 |  |
 | <a href="https://www.modulesgarden.com/products/magento/team-and-task-organizer" target="_blank">mozgbrasil/magento-modulesgarden-teamandtaskorganizer:1.1.1</a> | $99 |  |
