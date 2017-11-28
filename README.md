@@ -48,7 +48,6 @@ Abaixo temos uma relação de cada requerimento presente no manifesto do projeto
 | <a href="http://mozg.com.br/catalogo/" target="_blank">mozgbrasil/magento-bundle-php_56</a> | R$44 |  |
 | <a href="https://codecanyon.net/item/slider-revolution-responsive-magento-extension/9332896" target="_blank">mozgbrasil/magento-nwdthemes-revslider:5.4.5.2</a> | $39 |  |
 | <a href="https://themeforest.net/item/porto-ultimate-responsive-magento-theme/9725864" target="_blank">mozgbrasil/magento-theme-porto:2.6.2</a> | $79 |  |
-| <a href="https://www.modulesgarden.com/products/magento/team-and-task-organizer" target="_blank">mozgbrasil/magento-modulesgarden-teamandtaskorganizer:1.1.1</a> | $99 |  |
 | <a href="https://www.wyomind.com/data-feed-manager-magento.html" target="_blank">mozgbrasil/magento-wyomind-datafeedmanager:7.8.1.1</a> | $112 |  |
 | <a href="https://amasty.com/ajax-shopping-cart.html" target="_blank">mozgbrasil/magento-amasty-cart:2.3.12</a> | $119 |  |
 | <a href="https://amasty.com/auto-add-promo-items.html" target="_blank">mozgbrasil/magento-amasty-promo:2.4.0</a> | $119 |  |
@@ -60,7 +59,7 @@ Abaixo temos uma relação de cada requerimento presente no manifesto do projeto
 | <a href="https://ecommerce.aheadworks.com/magento-extensions/help-desk-ultimate.html" target="_blank">mozgbrasil/mozgbrasil/magento-aw-helpdesk:3.3.7</a> | $199 |  |
 | TOTAL | $1412 |  |
 
-<!--39+79+99+112+119+119+119+119+139+169+199+199-->
+<!--39+79+112+119+119+119+119+139+169+199+199-->
 
 ## Contribuintes
 
