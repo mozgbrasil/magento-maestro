@@ -12,10 +12,11 @@ Projeto Maestro
 
 Tenha seu projeto Magento gerenciado pelo Composer
 
+Atualmente um projeto Magento ideal é gerenciado completamente pelo Composer, a fim de obter as seguintes melhorias
+
 - [✓] Magento sempre atualizado;
 - [✓] Módulos sempre atualizados;
 - [✓] Template sempre atualizado;
-- [✓] Metodologia inovadora;
 
 <a href="http://www.cerebrum.com.br/desenvolvimento-loja-magento/" target="_blank">Clique aqui para mais informações</a>
 
