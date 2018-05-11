@@ -1,5 +1,4 @@
-/.git
-/node_modules
-/root
+node_modules
+*.dev.md
+/magento
 /vendor
-README_Dev.md
